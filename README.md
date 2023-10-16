@@ -1,4 +1,5 @@
 #  The Guide to New Hooks in React 18 
+This is a repository to use React 18 withe useTransition() and useId() 
 
 ## About this Repository
 ![GitHub language count](https://img.shields.io/github/languages/count/badiniibrahim/react-18-hooks)
